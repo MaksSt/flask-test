@@ -1,0 +1,57 @@
+
+body {
+	  background: rgb(70,0,82);
+    background: linear-gradient(90deg, rgb(98, 2, 116) 0%, rgb(20,20,150,1) 35%, rgb(0,255,158,1) 100%);
+}
+
+.test {
+    font: 30pt Consolas;
+} 
+
+#test1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font: 100px;
+  color: #ff0000;
+}
+
+#test2 {
+  position: relative;
+  top: 0px;
+  left: 50px;
+  font: 100px;
+	color: #a5b802
+}
+
+#test3 {
+  position: relative;
+  top: 0px;
+  left: 100px;
+	color: #05ca36;
+  font: 100px
+}
+
+#main {
+  position: relative;
+  top: 0px;
+  left: 0px;
+	color: #5d1ba8;
+  font: 100px
+}
+
+#main {
+  position: relative;
+  top: 0px;
+  left: 0px;
+	color: #5d1ba8;
+  font: 100px
+}
+
+#text {
+  position: relative;
+  top: 0px;
+  left: 0px;
+	color: #000000;
+  font: 100px
+}
